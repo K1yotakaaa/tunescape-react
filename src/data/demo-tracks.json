@@ -1,0 +1,26 @@
+{
+  "tracks": [
+    { "id": "4cOdK2wGLETKBW3PvgPWqT", "name": "Never Gonna Give You Up", "popularity": 88, "duration_ms": 213573, "ranges": ["long_term"], "artists": [{"name": "Rick Astley"}], "album": {"name": "Whenever You Need Somebody", "images": [{"url": ""}]} },
+    { "id": "0VjIjW4GlUZAMYd2vXMi3b", "name": "Blinding Lights", "popularity": 90, "duration_ms": 200040, "ranges": ["short_term", "medium_term", "long_term"], "artists": [{"name": "The Weeknd"}], "album": {"name": "After Hours", "images": [{"url": ""}]} },
+    { "id": "7qiZfU4dY1lWllzX7mPBI3", "name": "Shape of You", "popularity": 89, "duration_ms": 233712, "ranges": ["medium_term"], "artists": [{"name": "Ed Sheeran"}], "album": {"name": "÷ (Divide)", "images": [{"url": ""}]} },
+    { "id": "4u7EnebtmKWzUH433cf5Qv", "name": "Bohemian Rhapsody", "popularity": 87, "duration_ms": 354320, "ranges": ["long_term"], "artists": [{"name": "Queen"}], "album": {"name": "A Night at the Opera", "images": [{"url": ""}]} },
+    { "id": "32OlwWuMpZ6b0aN2RZOeMS", "name": "Uptown Funk", "popularity": 85, "duration_ms": 270586, "ranges": ["medium_term", "long_term"], "artists": [{"name": "Mark Ronson"}], "album": {"name": "Uptown Special", "images": [{"url": ""}]} },
+    { "id": "5ChkMS8OtdzJeqyybCc9R5", "name": "Billie Jean", "popularity": 86, "duration_ms": 294626, "ranges": ["long_term"], "artists": [{"name": "Michael Jackson"}], "album": {"name": "Thriller", "images": [{"url": ""}]} },
+    { "id": "1mea3bSkSGXuIRvnydlB5b", "name": "Viva La Vida", "popularity": 84, "duration_ms": 242373, "ranges": ["medium_term"], "artists": [{"name": "Coldplay"}], "album": {"name": "Viva la Vida or Death and All His Friends", "images": [{"url": ""}]} },
+    { "id": "003vvx7Niy0yvhvHt4a68B", "name": "Mr. Brightside", "popularity": 87, "duration_ms": 222973, "ranges": ["short_term", "long_term"], "artists": [{"name": "The Killers"}], "album": {"name": "Hot Fuss", "images": [{"url": ""}]} },
+    { "id": "2Fxmhks0bxGSBdJ92vM42m", "name": "bad guy", "popularity": 83, "duration_ms": 194088, "ranges": ["medium_term"], "artists": [{"name": "Billie Eilish"}], "album": {"name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?", "images": [{"url": ""}]} },
+    { "id": "6UelLqGlWMcVH1E5c4H7lY", "name": "Watermelon Sugar", "popularity": 84, "duration_ms": 174000, "ranges": ["short_term", "medium_term"], "artists": [{"name": "Harry Styles"}], "album": {"name": "Fine Line", "images": [{"url": ""}]} }
+  ],
+  "features": {
+    "4cOdK2wGLETKBW3PvgPWqT": { "danceability": 0.72, "energy": 0.85, "valence": 0.93, "acousticness": 0.04, "speechiness": 0.05, "instrumentalness": 0.0, "tempo": 113, "loudness": -6 },
+    "0VjIjW4GlUZAMYd2vXMi3b": { "danceability": 0.51, "energy": 0.73, "valence": 0.33, "acousticness": 0.005, "speechiness": 0.06, "instrumentalness": 0.0, "tempo": 171, "loudness": -5 },
+    "7qiZfU4dY1lWllzX7mPBI3": { "danceability": 0.83, "energy": 0.65, "valence": 0.93, "acousticness": 0.06, "speechiness": 0.08, "instrumentalness": 0.0, "tempo": 96, "loudness": -6 },
+    "4u7EnebtmKWzUH433cf5Qv": { "danceability": 0.4, "energy": 0.4, "valence": 0.22, "acousticness": 0.29, "speechiness": 0.05, "instrumentalness": 0.0, "tempo": 72, "loudness": -8 },
+    "32OlwWuMpZ6b0aN2RZOeMS": { "danceability": 0.86, "energy": 0.92, "valence": 0.89, "acousticness": 0.004, "speechiness": 0.09, "instrumentalness": 0.0, "tempo": 115, "loudness": -5 },
+    "5ChkMS8OtdzJeqyybCc9R5": { "danceability": 0.79, "energy": 0.7, "valence": 0.69, "acousticness": 0.02, "speechiness": 0.04, "instrumentalness": 0.0, "tempo": 117, "loudness": -7 },
+    "1mea3bSkSGXuIRvnydlB5b": { "danceability": 0.51, "energy": 0.72, "valence": 0.28, "acousticness": 0.03, "speechiness": 0.03, "instrumentalness": 0.0, "tempo": 138, "loudness": -5 },
+    "003vvx7Niy0yvhvHt4a68B": { "danceability": 0.42, "energy": 0.91, "valence": 0.4, "acousticness": 0.002, "speechiness": 0.05, "instrumentalness": 0.0, "tempo": 148, "loudness": -4 },
+    "2Fxmhks0bxGSBdJ92vM42m": { "danceability": 0.70, "energy": 0.43, "valence": 0.32, "acousticness": 0.33, "speechiness": 0.37, "instrumentalness": 0.0, "tempo": 135, "loudness": -8 },
+    "6UelLqGlWMcVH1E5c4H7lY": { "danceability": 0.55, "energy": 0.82, "valence": 0.56, "acousticness": 0.03, "speechiness": 0.05, "instrumentalness": 0.0, "tempo": 95, "loudness": -4 }
+  }
+}
